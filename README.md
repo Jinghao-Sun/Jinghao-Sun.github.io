@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Jinghao Pages
 This is Jinghao's webpage!
 Come on, baby!!
 You can use the [editor on GitHub](https://github.com/Jinghao-Sun/Jinghao-Sun.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

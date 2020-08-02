@@ -1,8 +1,7 @@
 <img src="pic.png" width="200"/>
 
 ## Biography
-I am Jinghao Sun, a PhD student in [Biostatistics](https://publichealth.yale.edu/biostat/) at [Yale School of Public Health](https://publichealth.yale.edu/) since 2017. My advisor is [Dr. Forrest W. Crawford](http://www.crawfordlab.io/). I am interested in causal inference, partial identification, and their applications in public health. Before coming to Yale, I received my B.S. from [Tsinghua University](https://www.tsinghua.edu.cn/en/).
+I am Jinghao Sun, a PhD student in [Biostatistics](https://publichealth.yale.edu/biostat/) at [Yale School of Public Health](https://publichealth.yale.edu/) since 2017. My advisor is [Dr. Forrest W. Crawford](http://www.crawfordlab.io/). I am interested in causal inference, partial identification, and their applications in public health. Before coming to Yale, I received my B.S. from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2017.
 
 ## Research
-1. crc, hyperlink, figures, 2020
-
+**Jinghao Sun**, Luk Van Baelen, Els Plettinckx, Forrest W. Crawford (2020) Partial identification and dependence-robust confidence intervals for capture-recapture surveys.  *Working Paper*.
